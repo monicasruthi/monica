@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="JunitTestClass" project="unittesting" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="unittesting.JunitTestClass" time="0.024" displayname="JunitTestClass" uniqueid="[engine:junit-jupiter]/[class:unittesting.JunitTestClass]">
+    <testsuite name="test2(unittesting.JunitTestClass)" time="0.012" displayname="test2()" uniqueid="[engine:junit-jupiter]/[class:unittesting.JunitTestClass]/[test-template:test2()]">
+      <testcase name="test2" classname="unittesting.JunitTestClass" time="0.012" dynamicTest="true" displayname="repetition 1 of 3" uniqueid="[engine:junit-jupiter]/[class:unittesting.JunitTestClass]/[test-template:test2()]/[test-template-invocation:#1]"/>
+      <testcase name="test2" classname="unittesting.JunitTestClass" time="0.003" dynamicTest="true" displayname="repetition 2 of 3" uniqueid="[engine:junit-jupiter]/[class:unittesting.JunitTestClass]/[test-template:test2()]/[test-template-invocation:#2]"/>
+      <testcase name="test2" classname="unittesting.JunitTestClass" time="0.002" dynamicTest="true" displayname="repetition 3 of 3" uniqueid="[engine:junit-jupiter]/[class:unittesting.JunitTestClass]/[test-template:test2()]/[test-template-invocation:#3]"/>
+    </testsuite>
+    <testcase name="test3" classname="unittesting.JunitTestClass" time="0.007" displayname="test3()" uniqueid="[engine:junit-jupiter]/[class:unittesting.JunitTestClass]/[method:test3()]"/>
+  </testsuite>
+</testrun>
